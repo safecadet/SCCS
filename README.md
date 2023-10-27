@@ -1,11 +1,11 @@
 # Software Component Cataloguing Software
-![Screenshot (158)](https://user-images.githubusercontent.com/43809818/110497431-719b4280-811c-11eb-9e1f-e5085dc6c1a2.png)
-![Screenshot (159)](https://user-images.githubusercontent.com/43809818/110497439-74963300-811c-11eb-9c22-4c78dc6773f8.png)
-![Screenshot (160)](https://user-images.githubusercontent.com/43809818/110497448-76f88d00-811c-11eb-81cd-b1412ab3804c.png)
-![Screenshot (161)](https://user-images.githubusercontent.com/43809818/110497459-795ae700-811c-11eb-9676-c627ab4fdb09.png)
+![Screenshot (16)](https://github.com/safecadet/SCCS/assets/81255734/8d5c322d-43d3-4f96-bde3-0ca6adf1240d)
+![Screenshot (17)](https://github.com/safecadet/SCCS/assets/81255734/d3b23289-cd02-4bc9-88d6-96d9a0aeb831)
+![Screenshot (19)](https://github.com/safecadet/SCCS/assets/81255734/a614bf7d-2dd3-4285-8f4f-0352534cd301)
+![Screenshot (18)](https://github.com/safecadet/SCCS/assets/81255734/2fd16afa-1741-4fca-8c12-10d49fec35fd)
+![Screenshot (20)](https://github.com/safecadet/SCCS/assets/81255734/1c653a0f-f84c-428b-bf46-4173ffab4855)
 
-
-### [Click here](https://sccs-seproject.herokuapp.com/) for the Live Demo
+### [Click here](https://sccs.onrender.com/) for the Live Demo
 
 ## Features
 
